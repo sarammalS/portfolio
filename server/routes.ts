@@ -2,6 +2,15 @@ import type { Express } from "express";
 import { createServer, type Server } from "http";
 
 export async function registerRoutes(app: Express): Promise<Server> {
+  // Add a simple status endpoint to test API connectivity
+  app.get('/api/status', (req, res) => {
+    return res.status(200).json({
+      status: 'online',
+      message: 'API is working correctly',
+      timestamp: new Date().toISOString()
+    });
+  });
+
   // Add API routes for contact form if needed
   app.post('/api/contact', async (req, res) => {
     try {
