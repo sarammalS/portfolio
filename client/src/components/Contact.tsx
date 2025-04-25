@@ -35,9 +35,12 @@ export default function Contact() {
   const onSubmit = async (data: FormValues) => {
     setIsSubmitting(true);
     
-    // Simulate form submission
+    // We'll use a fully client-side approach for the demo
     try {
+      // Simulate a delay as if we're sending data to a server
       await new Promise(resolve => setTimeout(resolve, 1500));
+      
+      console.log("Form submitted with data:", data);
       
       toast({
         title: "Message sent!",
@@ -46,6 +49,7 @@ export default function Contact() {
       
       form.reset();
     } catch (error) {
+      console.error("Error submitting form:", error);
       toast({
         title: "Something went wrong",
         description: "Your message couldn't be sent. Please try again later.",
