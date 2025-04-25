@@ -20,10 +20,10 @@ export default function About() {
             <h2 className="text-3xl md:text-4xl font-bold text-secondary-900 mb-4">About Me</h2>
             <div className="w-24 h-1 bg-primary-600 mb-6"></div>
             <p className="text-lg text-secondary-700 mb-6">
-              I'm Sarammal S., a Java Developer Intern at Innobyte Services with experience in full-stack development. I enjoy building impactful backend systems and exploring cloud-based web solutions.
+              I'm Sarammal S., a Java Developer Intern at Innobyte Services with experience in full-stack development. I'm passionate about backend development, building robust applications in Java, and developing scalable web solutions using Spring Boot and MySQL.
             </p>
             <p className="text-lg text-secondary-700 mb-6">
-              Currently, I'm pursuing an M.Sc. in Computer Science at PSG College of Arts and Science, preparing for UGC NET CS, and actively contributing to personal and open-source projects.
+              Currently, I'm pursuing an M.Sc. in Computer Science at PSG College of Arts and Science, preparing for DSA-LLD, and actively contributing to both personal and open-source projects like GirlScript Summer of Code (2024).
             </p>
             
             <div className="flex flex-wrap gap-6 mt-8">

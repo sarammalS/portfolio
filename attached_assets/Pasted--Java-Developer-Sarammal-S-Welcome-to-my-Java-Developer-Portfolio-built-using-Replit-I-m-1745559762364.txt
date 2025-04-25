@@ -1,0 +1,56 @@
+# 👨‍💻 Java Developer Sarammal S
+
+Welcome to my Java Developer Portfolio built using 💻 Replit! I'm passionate about backend development, building robust applications in Java, and developing scalable web solutions using Spring Boot and MySQL. I’m currently pursuing an M.Sc. in Computer Science at PSG College of Arts and Science.
+
+---
+
+## 🌟 Featured Projects
+
+### 🚆 Train Ticket Booking System
+- **Tech Stack**: Java, OOP, File I/O
+- **Description**: A console-based application that supports dynamic seat allocation, PNR generation, waiting list handling, and partial cancellations.
+- (https://replit.com/@sarammal/train-ticket-booking) *(update with your link)*
+
+---
+
+### 🎓 Student Management System
+- **Tech Stack**: Java, JDBC, MySQL
+- **Description**: Console application to perform CRUD operations on student data using JDBC connectivity to a MySQL database.
+
+
+---
+
+### 💬 Java Chat Application
+- **Tech Stack**: Java, Networking, Multithreading
+- **Description**: A multi-user chat app using TCP sockets that allows real-time communication via the console.
+-
+
+---
+
+## 🧠 Technologies & Skills
+- **Languages**: Java, C++, JavaScript, SQL, HTML/CSS
+- **Frameworks**: Spring Boot, Node.js, Express.js, React.js
+- **Database**: MySQL, Firebase, MongoDB
+- **Tools**: Git, GitHub, VS Code, Replit
+- **Concepts**: OOP, REST APIs, Data Structures & Algorithms
+
+---
+
+## 🏆 Achievements & Certifications
+- Finalist – Codeathon Contest, PSG College of Arts and Science
+- Software Engineer Intern – HackerRank Certification
+- SQL – HackerRank Certification
+- Open Source Contributor – GirlScript Summer of Code (2024)
+
+---
+
+## 📫 Contact Me
+- **Email**: sarammalselva@gmail.com
+- **GitHub**: [github.com/sarammalS](https://github.com/sarammalS)
+- **LinkedIn**: [linkedin.com/in/sarammal](inkedin.com/in/sarammal-s-7a0a45261/)
+
+---
+
+### 🙋‍♀️ About Me
+I'm Sarammal , a Java Developer Intern at Innobyte Services with experience in full-stack development. I enjoy building impactful backend systems and exploring cloud-based web solutions. Currently, I’m preparing for DSA-LLD and actively looking  contributing to personal and open-source projects.
+
